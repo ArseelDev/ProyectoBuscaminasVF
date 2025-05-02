@@ -1,0 +1,7 @@
+D:\Buscaminas\bin\Debug\Buscaminas.exe.config
+D:\Buscaminas\bin\Debug\Buscaminas.exe
+D:\Buscaminas\bin\Debug\Buscaminas.pdb
+D:\Buscaminas\obj\Debug\Buscaminas.csproj.AssemblyReference.cache
+D:\Buscaminas\obj\Debug\Buscaminas.csproj.CoreCompileInputs.cache
+D:\Buscaminas\obj\Debug\Buscaminas.exe
+D:\Buscaminas\obj\Debug\Buscaminas.pdb
